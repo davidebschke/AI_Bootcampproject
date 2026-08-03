@@ -3,5 +3,5 @@
 # ==============================================================================
 
 # 1. Person primarily responsible for the entire project
-*                   @davidebschke
+* @davidebschke
 
