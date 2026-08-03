@@ -1,15 +1,14 @@
-# Lines starting with '#' are comments.
-# Each line is a file pattern followed by one or more owners.
+# ==============================================================================
+# CODEOWNERS 
+# ==============================================================================
 
-# More details are here: https://help.github.com/articles/about-codeowners/
+# 1. Hauptverantwortlicher für das gesamte Projekt
+*                   @davidebschke
 
-# The '*' pattern is global owners.
+# 2. Kritische Konfigurationen & CI/CD (z. B. nur vom Tech-Lead zu prüfen)
+/.github/           @davidebschke
+package.json        @davidebschke
+docker-compose.yml  @davidebschke
 
-# Order is important. The last matching pattern has the most precedence.
-# The folders are ordered as follows:
-
-# In each subsection folders are ordered first by depth, then alphabetically.
-# This should make it easy to add new rules without breaking existing ones.
-
-# Global rule:
-* @$(davidebschke)
+# 3. Bestimmte Zuständigkeiten (optional)
+/docs/              @davidebschke
