@@ -1,4 +1,4 @@
-# [AI_Github_Projectmanager](https://github.com/davidebschke/Real-Estate-Maintenance-Optimizer)
+# [Real-Estate-Maintenance-Optimizer](https://github.com/davidebschke/Real-Estate-Maintenance-Optimizer)
 
 ## English
 The core objective of the project is to help a property management company optimize maintenance. This will be achieved by reducing travel distances, better coordinating appointments based on location and duration, and estimating the potential duration of appointments based on previous appointments with similar contexts. This will save the company not only time but also money. In addition, operating costs could be reduced as a result. This would also benefit the tenants. More come Later
