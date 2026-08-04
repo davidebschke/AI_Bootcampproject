@@ -16,20 +16,22 @@
   - [German](#german)
     - [📌 Projektübersicht](#-projektübersicht)
     - [🚀 Features \& Epics (MVP)](#-features--epics-mvp-1)
-      - [1. 📅 Terminübersicht (`Term Overview`)](#1--terminübersicht-term-overview)
-      - [2. ➕ Terminerstellung (`Term creation`)](#2--terminerstellung-term-creation)
-      - [3. 🗺️ Ortsabhängige Planung (`Automatic planning Place`)](#3-️-ortsabhängige-planung-automatic-planning-place)
-      - [4. ⏱️ Zeitbasierte Planung (`Automatic planning Time`)](#4-️-zeitbasierte-planung-automatic-planning-time)
-      - [5. 📦 Materialplanung (`Material planning`)](#5--materialplanung-material-planning)
-      - [6. 🚗 Routenoptimierung (`Fast route planning`)](#6--routenoptimierung-fast-route-planning)
-      - [7. 🔒 Unverschiebbare Termine (`Unrescheduled terms`)](#7--unverschiebbare-termine-unrescheduled-terms)
-      - [8. 🔄 Wiederkehrende Termine (`Recurring appointments`)](#8--wiederkehrende-termine-recurring-appointments)
+      - [1. 📅 Terminübersicht](#1--terminübersicht)
+      - [2. ➕ Terminerstellung](#2--terminerstellung)
+      - [3. 🗺️ Ortsabhängige Planung](#3-️-ortsabhängige-planung)
+      - [4. ⏱️ Zeitbasierte Planung](#4-️-zeitbasierte-planung)
+      - [5. 📦 Materialplanung](#5--materialplanung)
+      - [6. 🚗 Routenoptimierung](#6--routenoptimierung)
+      - [7. 🔒 Unverschiebbare Termine](#7--unverschiebbare-termine)
+      - [8. 🔄 Wiederkehrende Termine](#8--wiederkehrende-termine)
     - [📋 Backlog \& Zukünftige Features (`Backlog/Issues`)](#-backlog--zukünftige-features-backlogissues)
   - [Tech Stack](#tech-stack)
     - [Frontend](#frontend)
     - [Backend](#backend)
     - [Datenbank](#datenbank)
     - [AI / Intelligence](#ai--intelligence)
+
+
 
 
 ## English
@@ -88,7 +90,7 @@ Diese Anwendung ist ein intelligentes System zur **Termin- und Tourenplanung**, 
 
 ### 🚀 Features & Epics (MVP)
 
-#### 1. 📅 Terminübersicht)
+#### 1. 📅 Terminübersicht
 - **Kurzansicht:** Übersichtliche Kalenderdarstellung aller anstehenden Termine.
 - **Detailansicht:** Ein Klick öffnet sämtliche Kunden- und Auftragsdetails.
 
