@@ -1,0 +1,61 @@
+name: "Feature Request (AI-Optimized)"
+description: Request a new feature with structured logic for AI generation.
+title: "feat: [Short title of the new feature]"
+labels: ["enhancement", "ai-ready"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🎯 Goal & User Story
+        Define who needs this feature and why.
+  - type: textarea
+    id: user-story
+    attributes:
+      label: "UserStory"
+      placeholder: "As a [user role], I want to [action] so that [benefit/value]."
+    validations:
+      required: true
+  - type: textarea
+    id: components
+    attributes:
+      label: 🛠 Targeted Components
+      description: Tell the AI which files are involved.
+      placeholder: |
+        - New File(s) to create: src/path/to/new_file.ext
+        - Existing File(s) to modify: src/path/to/existing_file.ext
+        - Dependencies needed: [e.g., zod, lucide-react, none]
+    validations:
+      required: true
+  - type: textarea
+    id: specification
+    attributes:
+      label: 📋 Technical Specification & Logic
+      description: Describe the step-by-step logic flow for the AI agent.
+      placeholder: |
+        1. Input: Expects data structure `{ key: value }`.
+        2. Validation: Check if [condition] using [method].
+        3. Processing: Calculate/transform the data by [logic].
+        4. Output: Return [data type/object].
+    validations:
+      required: true
+  - type: textarea
+    id: ui-ux
+    attributes:
+      label: 🎨 UI/UX Mockup & Layout (Optional)
+      description: Text-based layout descriptions work better for AI than raw screenshots.
+      placeholder: |
+        - Component Layout: [e.g., Flexbox row with 3 items]
+        - Styling Requirements: [e.g., Tailwind classes or design system variables]
+    validations:
+      required: false
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: ✅ Acceptance Criteria for AI
+      description: Explicit boundaries and test requirements for the AI definition of done.
+      value: |
+        - [ ] Feature implements interface `[InterfaceName]`.
+        - [ ] Edge case handled: `[e.g., empty state, network failure]`.
+        - [ ] New unit tests cover at least 80% of the new file logic.
+    validations:
+      required: true
