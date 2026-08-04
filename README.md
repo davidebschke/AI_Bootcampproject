@@ -5,3 +5,22 @@ The core objective of the project is to help a property management company optim
 
 ## German
 Das Projekt soll im Kern einer Immobilienverwaltung helfen Wartungen zu optimieren. Dies soll geschehen indem Anfahrtswege reduziert werden, Termine anhand des Ortes und der dauer besser abgestimmt werden und die potenzielle Dauer von Terminen eingeschätzt werden aufgrund von vorran gegangenen Terminen ähnlichen Kontextes. Das Unternehmen spart damit nicht nur Zeit sondern auch bares Geld. Zusätzlich könnten Betriebskosten dadurch gesenkt werden . Dies würde auch den Mieter freuen. Mehr wird später kommen.
+
+### Tech Stack
+
+#### Frontend
+* **Framework:** Vue.js 3
+* **UI Components:** PrimeVue 4
+* **Calendar:** Vue.cal
+* **State & Routing:** Vue Router, Axios
+
+#### Backend
+* **Language & Framework:** Java, Spring Boot 3
+* **Authentication & Security:** Spring Security, JJWT (JSON Web Token)
+* **Data Access & Mail:** Spring Data JPA, Spring Mail
+
+#### Database
+* **Database:** PostgreSQL
+
+#### AI / Intelligence
+* **Framework:** LangChain4j
