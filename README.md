@@ -1,5 +1,37 @@
 # [Real-Estate-Maintenance-Optimizer](https://github.com/davidebschke/Real-Estate-Maintenance-Optimizer)
 
+- [Real-Estate-Maintenance-Optimizer](#real-estate-maintenance-optimizer)
+  - [English](#english)
+    - [📌 Project Overview](#-project-overview)
+    - [🚀 Features \& Epics (MVP)](#-features--epics-mvp)
+      - [1. 📅 Appointment Overview (`Term Overview`)](#1--appointment-overview-term-overview)
+      - [2. ➕ Appointment Creation (`Term creation`)](#2--appointment-creation-term-creation)
+      - [3. 🗺️ Location-Based Planning (`Automatic planning Place`)](#3-️-location-based-planning-automatic-planning-place)
+      - [4. ⏱️ Time-Based Planning (`Automatic planning Time`)](#4-️-time-based-planning-automatic-planning-time)
+      - [5. 📦 Material Planning (`Material planning`)](#5--material-planning-material-planning)
+      - [6. 🚗 Route Optimization (`Fast route planning`)](#6--route-optimization-fast-route-planning)
+      - [7. 🔒 Fixed Appointments (`Unrescheduled terms`)](#7--fixed-appointments-unrescheduled-terms)
+      - [8. 🔄 Recurring Appointments (`Recurring appointments`)](#8--recurring-appointments-recurring-appointments)
+  - [📋 Backlog \& Future Features (`Backlog/Issues`)](#-backlog--future-features-backlogissues)
+  - [German](#german)
+    - [📌 Projektübersicht](#-projektübersicht)
+    - [🚀 Features \& Epics (MVP)](#-features--epics-mvp-1)
+      - [1. 📅 Terminübersicht (`Term Overview`)](#1--terminübersicht-term-overview)
+      - [2. ➕ Terminerstellung (`Term creation`)](#2--terminerstellung-term-creation)
+      - [3. 🗺️ Ortsabhängige Planung (`Automatic planning Place`)](#3-️-ortsabhängige-planung-automatic-planning-place)
+      - [4. ⏱️ Zeitbasierte Planung (`Automatic planning Time`)](#4-️-zeitbasierte-planung-automatic-planning-time)
+      - [5. 📦 Materialplanung (`Material planning`)](#5--materialplanung-material-planning)
+      - [6. 🚗 Routenoptimierung (`Fast route planning`)](#6--routenoptimierung-fast-route-planning)
+      - [7. 🔒 Unverschiebbare Termine (`Unrescheduled terms`)](#7--unverschiebbare-termine-unrescheduled-terms)
+      - [8. 🔄 Wiederkehrende Termine (`Recurring appointments`)](#8--wiederkehrende-termine-recurring-appointments)
+    - [📋 Backlog \& Zukünftige Features (`Backlog/Issues`)](#-backlog--zukünftige-features-backlogissues)
+  - [Tech Stack](#tech-stack)
+    - [Frontend](#frontend)
+    - [Backend](#backend)
+    - [Datenbank](#datenbank)
+    - [AI / Intelligence](#ai--intelligence)
+
+
 ## English
 The core objective of the project is to help a property management company optimize maintenance. This will be achieved by reducing travel distances, better coordinating appointments based on location and duration, and estimating the potential duration of appointments based on previous appointments with similar contexts. This will save the company not only time but also money. In addition, operating costs could be reduced as a result. This would also benefit the tenants. More come Later
 
