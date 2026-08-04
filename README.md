@@ -25,11 +25,11 @@
       - [7. 🔒 Unverschiebbare Termine](#7--unverschiebbare-termine)
       - [8. 🔄 Wiederkehrende Termine](#8--wiederkehrende-termine)
     - [📋 Backlog \& Zukünftige Features (`Backlog/Issues`)](#-backlog--zukünftige-features-backlogissues)
-  - [Tech Stack](#tech-stack)
-    - [Frontend](#frontend)
-    - [Backend](#backend)
-    - [Datenbank](#datenbank)
-    - [AI / Intelligence](#ai--intelligence)
+  - [🧰 Tech Stack](#-tech-stack)
+    - [🖥️ Frontend](#️-frontend)
+    - [☁️ Backend](#️-backend)
+    - [🗄️ Datenbank](#️-datenbank)
+    - [🤖 AI / Intelligence](#-ai--intelligence)
 
 
 
@@ -125,21 +125,21 @@ Diese Anwendung ist ein intelligentes System zur **Termin- und Tourenplanung**, 
 
 ------------
 
-## Tech Stack
+## 🧰 Tech Stack
 
-### Frontend
+### 🖥️ Frontend
 * **Framework:** Vue.js 3
 * **UI Components:** PrimeVue 4
 * **Calendar:** Vue.cal
 * **State & Routing:** Vue Router, Axios
 
-### Backend
+### ☁️ Backend
 * **Language & Framework:** Java, Spring Boot 3
 * **Authentication & Security:** Spring Security, JJWT (JSON Web Token)
 * **Data Access & Mail:** Spring Data JPA, Spring Mail
 
-### Datenbank
+### 🗄️ Datenbank
 * **Database:** PostgreSQL
 
-### AI / Intelligence
+### 🤖 AI / Intelligence
 * **Framework:** LangChain4j
