@@ -1,7 +1,7 @@
-name: "🐛 Bug Fix (AI-Optimized)"
+name: "Bug Fix (AI-Optimized)"
 description: Report a bug with precise context for AI agents.
 title: "fix: [Short description of the bug]"
-labels: ["bug", "ai-ready"]
+labels: ["Bug", "AI"]
 body:
   - type: markdown
     attributes:
