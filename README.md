@@ -88,32 +88,32 @@ Diese Anwendung ist ein intelligentes System zur **Termin- und Tourenplanung**, 
 
 ### 🚀 Features & Epics (MVP)
 
-#### 1. 📅 Terminübersicht (`Term Overview`)
+#### 1. 📅 Terminübersicht)
 - **Kurzansicht:** Übersichtliche Kalenderdarstellung aller anstehenden Termine.
 - **Detailansicht:** Ein Klick öffnet sämtliche Kunden- und Auftragsdetails.
 
-#### 2. ➕ Terminerstellung (`Term creation`)
+#### 2. ➕ Terminerstellung
 - **Eingabemaske:** Schnelle manuelle Erstellung von Aufträgen.
 - **Spracheingabe / Audio-Funktion:** Freihändige Terminerstellung per Sprachbefehl – ideal, wenn man gerade die Hände voll hat.
 
-#### 3. 🗺️ Ortsabhängige Planung (`Automatic planning Place`)
+#### 3. 🗺️ Ortsabhängige Planung
 - Intelligent abgestimmte Routen zur **Reduzierung von Fahrzeiten** zwischen Einsatzorten.
 - Effizientes Einschieben kleinerer Aufträge in der Nähe des vorherigen Einsatzorts.
 
-#### 4. ⏱️ Zeitbasierte Planung (`Automatic planning Time`)
+#### 4. ⏱️ Zeitbasierte Planung
 - Automatische Terminvergabe und Umplanung mit konfigurierbarem zeitlichem Abstand.
 - **Vordefinierte Vorlagen:** Schnelles Anlegen wiederkehrender Aufgaben (z. B. Kellerreinigung, Pflege der Außenanlage).
 
-#### 5. 📦 Materialplanung (`Material planning`)
+#### 5. 📦 Materialplanung
 - Zuordnung von benötigtem Material direkt zum Termin, um unnötige Fahrten zum Lager oder Baumarkt zu vermeiden.
 
-#### 6. 🚗 Routenoptimierung (`Fast route planning`)
+#### 6. 🚗 Routenoptimierung 
 - Direkt integrierter **Maps-Link** in der Kurzübersicht für den schnellen Start der Navigation.
 
-#### 7. 🔒 Unverschiebbare Termine (`Unrescheduled terms`)
+#### 7. 🔒 Unverschiebbare Termine 
 - Fixierte Termine werden durch den KI-Optimierungsalgorithmus nicht verändert.
 
-#### 8. 🔄 Wiederkehrende Termine (`Recurring appointments`)
+#### 8. 🔄 Wiederkehrende Termine
 - Automatische Daueraufträge (z. B. Inspektion alle 3 Monate), ohne manuell daran denken zu müssen.
 ---
 
