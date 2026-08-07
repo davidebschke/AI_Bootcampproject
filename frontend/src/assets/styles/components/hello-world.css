@@ -1,0 +1,17 @@
+.hello-card {
+  padding: 2rem;
+  border-radius: 12px;
+  background: #ffffff;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.08);
+  text-align: center;
+}
+
+.hello-card__title {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.hello-card__subtitle {
+  margin-top: 0.75rem;
+  color: #4b5563;
+}
